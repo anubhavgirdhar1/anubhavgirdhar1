@@ -8,8 +8,6 @@
 - Working across **Gen AI ecosystems & softwares**  
 - Hackathon mentor | Open-source contributor | Always shipping  
 
----
-
 ## Current Focus
 - **Fit.Project** → holistic wellness platform (mental health + fitness + nutrition)  
 - **Multi-provider LLM Wrappers** → reliable Gen AI framework for devs  
