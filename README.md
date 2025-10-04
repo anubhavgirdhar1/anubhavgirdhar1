@@ -1,4 +1,3 @@
-```md
 # anubhav-girdhar
 
 ## About Me
@@ -27,6 +26,4 @@
 
 ---
 
-> **Build stuff fast, break shit fast, ship real stuff**  
-
-```
+> **Build stuff fast, break shit fast, ship real stuff**
