@@ -1,6 +1,6 @@
-# anubhav-girdhar
-
 <img src="https://raw.githubusercontent.com/anubhavgirdhar1/anubhavgirdhar1/main/assets/work.gif" width="400" align="right">
+
+# Anubhav Girdhar
 
 ## About Me
 - **Senior Data Scientist**  
@@ -8,9 +8,12 @@
 - Working across **Gen AI ecosystems & softwares**  
 - Hackathon mentor | Open-source contributor | Always shipping  
 
+---
+
 ## Current Focus
-- **Fit.Project** → holistic wellness platform (mental health + fitness + nutrition)  
-- **Multi-provider LLM Wrappers** → reliable Gen AI framework for devs  
+- **[Fit.Project](https://fitproject.in)** → holistic wellness platform (mental health + fitness + nutrition)  
+- **[Multi-provider LLM Wrappers](https://wrapperai.in)** → reliable Gen AI framework for devs  
+- **[MemoryAI](https://memoryai.in)** → talk to your loved ones who are not with you anymore, by calling them on their phone number directly
 
 ---
 
