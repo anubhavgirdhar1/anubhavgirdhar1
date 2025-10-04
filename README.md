@@ -10,7 +10,7 @@
 
 ---
 
-## Current Focus
+## Current Focus (Check out the websites)
 - **[Fit.Project](https://fitproject.in)** → holistic wellness platform (mental health + fitness + nutrition)  
 - **[Multi-provider LLM Wrappers](https://www.wrapperai.in)** → reliable Gen AI framework for devs  
 - **[MemoryAI](https://memoryai.in)** → talk to your loved ones who are not with you anymore, by calling them on their phone number directly
