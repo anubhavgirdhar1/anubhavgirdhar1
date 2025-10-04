@@ -1,8 +1,6 @@
 ```md
 # anubhav-girdhar
 
-<img src="https://raw.githubusercontent.com/anubhavgirdhar1/anubhavgirdhar1/main/assets/work.gif" width="400" align="right">
-
 ## About Me
 - **Senior Data Scientist**  
 - Builder of [wrapper](https://github.com/anubhavgirdhar1/wrapper) and other open-source projects  
