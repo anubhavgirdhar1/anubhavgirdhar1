@@ -1,7 +1,7 @@
 ```md
 # anubhav-girdhar
 
-<img src="https://raw.githubusercontent.com/anubhavgirdhar1/anubhavgirdhar1/main/assets/hola.gif" width="400" align="right">
+<img src="https://raw.githubusercontent.com/anubhavgirdhar1/anubhavgirdhar1/main/assets/work.gif" width="400" align="right">
 
 ## About Me
 - **Senior Data Scientist**  
