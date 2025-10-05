@@ -18,7 +18,7 @@
 ---
 
 ## Research Papers
-- **[MemoryAI: Conversational Agents for Personalized Memories](https://arxiv.org/abs/2504.12757)**
+- **[MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI Systems](https://arxiv.org/abs/2504.12757)**
 
 ---
 
