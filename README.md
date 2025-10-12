@@ -4,7 +4,7 @@
 
 ## About Me
 - **Senior Data Scientist**  
-- Builder of [wrapper](https://github.com/anubhavgirdhar1/wrapper)  
+- Maintaining [wrapper](https://github.com/anubhavgirdhar1/wrapper)  
 - Working across **Gen AI ecosystems & softwares**  
 - Hackathon mentor | Open-source contributor | Always shipping  
 
